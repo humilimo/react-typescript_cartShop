@@ -205,7 +205,7 @@ export const Info = styled.div`
         color: #555;
 
         &:last-child {
-          color: blue;
+          color: rgb(0, 160, 0);//green em rgb(0, 128, 0)
         }
     }
 `;
