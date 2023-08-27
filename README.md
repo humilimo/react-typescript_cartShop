@@ -1,3 +1,8 @@
 ![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/f9abc887-5eec-4d1a-90eb-1bdfab9b6ea8)
 ![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/1d35abf4-0078-4e8b-978d-c374b0b1aa46)
 ![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/316b2051-4b03-45ac-afec-72ae0033aa1c)
+![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/3a7f66b3-4cd9-4aba-9545-0a83a8ec5b3b)
+![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/e26ee639-0de5-4fd5-bee3-ad44038584c4)
+![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/d7c63902-14c6-4954-a506-184e98eec7f0)
+![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/ffb3c5be-3491-4928-8479-6181fcd76551)
+![image](https://github.com/humilimo/react-typescript_cartShop/assets/102665384/27786db6-1025-4048-9274-818bd8667f66)
